@@ -32,3 +32,6 @@
 <td><img src="https://user-images.githubusercontent.com/111049326/234774571-76182b77-ed62-45ae-9499-f7e419b3146e.png" alt="Pin Change" style="width:100%"></td>
 </tr>
 </table>
+<br>
+<p> You can see the detail Video by Clicking 
+<a href="https://www.linkedin.com/posts/abhishekgupta2309_java-connections-project-activity-7057270228551933952-H6Tm?utm_source=share&utm_medium=member_desktop">Here</a></p>
